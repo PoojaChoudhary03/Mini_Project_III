@@ -1,8 +1,8 @@
-mini-project-III
+# mini-project-III
 
 Repo with the instructions for the Mini Project III.
 
-Topics
+### Topics
 
 This mini project is dedicated to following topics:
 
@@ -11,7 +11,8 @@ Data Visualization
 Data Preparation and Feature Engineering
 Dimensionality Reduction
 Unsupervised Learning
-Data
+
+### Data
 
 We will be using old data about different financial transactions. You can download the data from here. The data contains following tables:
 
@@ -24,7 +25,9 @@ twm_transactions - information about financial transactions
 twm_savings_tran - information about savings transactions (subset of twm_transactions)
 twm_checking_tran - information about savings transactions (subset of twm_transactions)
 twm_credit_tran - information about credit checking (subset of twm_transactions)
-Output
+
+
+### Output
 
 In this miniproject, we will:
 
