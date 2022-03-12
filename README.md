@@ -1,4 +1,5 @@
-# Customer Segmentation
+# Mini- Project III
+## Customer Segmentation
 
 Repo with the instructions for the Mini Project III.
 
